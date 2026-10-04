@@ -1,0 +1,1 @@
+{"uuid": "b6a0f16c-8dcd-4ff1-a447-af901f9f7aef", "children": ["8b0f4e92-51df-422b-b9cc-a3a825b41eb0"], "befores": [{"name": "forecast_date", "status": "passed", "start": 1791114589844, "stop": 1791114589844}], "afters": [{"name": "forecast_date::<lambda>", "start": 1791114589846}], "start": 1791114589844, "stop": 1791114589846}

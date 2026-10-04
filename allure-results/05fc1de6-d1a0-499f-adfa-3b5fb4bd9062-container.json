@@ -1,0 +1,1 @@
+{"uuid": "cbd4e747-fdf0-4734-bc40-65fb21e6bb43", "children": ["8b0f4e92-51df-422b-b9cc-a3a825b41eb0"], "befores": [{"name": "aws_bucket", "status": "passed", "start": 1791114589844, "stop": 1791114589844}], "afters": [{"name": "aws_bucket::<lambda>", "start": 1791114589845}], "start": 1791114589844, "stop": 1791114589845}
